@@ -1,0 +1,3 @@
+rep "VOS-runner@Pantastic_inc@cloud"
+  path "/"
+    smartbranch "/main/Main working"    
